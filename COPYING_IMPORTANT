@@ -1,0 +1,7 @@
+This repository contains code from 3 different sources:
+
+A checkout of the dygraphs (http://dygraphs.com/) code is located in sym-files2/dygraph. This code is licensed under the MIT license. See https://github.com/danvk/dygraphs/blob/master/LICENSE.txt for details
+
+A copy of some python ctypes code is located under ctypes. This code is licensed under the ?????? license. See ??? for details.
+
+The rest of the code is the CINF Data Presentation Website. This code is licensed under the GNU GPL version 3. See COPYING for details.
