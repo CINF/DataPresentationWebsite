@@ -1,0 +1,216 @@
+
+/*
+
+    Copyright (C) 2012 Robert Jensen, Thomas Andersen and Kenneth Nielsen
+    
+    The CINF Data Presentation Website is free software: you can
+    redistribute it and/or modify it under the terms of the GNU
+    General Public License as published by the Free Software
+    Foundation, either version 3 of the License, or
+    (at your option) any later version.
+    
+    The CINF Data Presentation Website is distributed in the hope
+    that it will be useful, but WITHOUT ANY WARRANTY; without even
+    the implied warranty of MERCHANTABILITY or FITNESS FOR A
+    PARTICULAR PURPOSE.  See the GNU General Public License for more
+    details.
+    
+    You should have received a copy of the GNU General Public License
+    along with The CINF Data Presentation Website.  If not, see
+    <http://www.gnu.org/licenses/>.
+
+*/
+
+.dydiv{
+        border: 0px solid black;
+        margin-left:auto;
+	margin-right:auto;
+	width:90%; /*850px;*/
+	height:500px;
+}
+
+.dydiv2{
+        float: left;
+	width: 80%;
+	height: 500px;
+}
+
+#labels{
+        float: right;
+        width: 20%;
+	font-size: 12px;
+	margin-top: 20px;
+	
+}
+
+/*.dydiv2 .dygraph-legend {
+        width: 100px;
+        background-color: black;
+        left: 40px !important;
+      }*/
+
+.clear{
+    clear: both;
+}
+
+.container{
+        border: 0px solid red;
+	max-width:75%;/*950px*/
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.plotcontainer{
+	margin-left:auto;
+	margin-top:10px;
+	margin-right:auto;
+	margin-bottom:10px;
+}
+
+img.matplotlib{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+
+.copyright{
+	background:#0C5DA5;
+	padding:5px;
+	color:#FFFFFF;
+	font-size:16px;
+	text-align:center;
+	font-weight:bold;
+	height:30px;
+}
+
+
+table.generaloptions,table.selection,.additionalinfo{
+	border-width: 2px;
+	border-collapse: collapse;
+	margin-right:auto;
+	margin-left:auto;
+	width:80%; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+td.plot_options{
+	border-left: 1px solid;
+	border-right: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+}
+
+table.frontpage {
+	margin-right:auto;
+	margin-left:auto;
+	width:80%; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+table.frontpage tr {
+	padding: 1px;
+}
+
+table.frontpage td {
+	border-width: 0px;
+	border-style: inset;
+	border-color: blue;
+	width:30%;
+}
+
+table.frontpage h2 {
+	color:#0C5DA5;
+	margin:5px;
+
+}
+
+table.frontpage ul {
+	margin:0px;
+}
+
+.component_select{
+	padding-bottom:5px;
+	padding-top:5px;
+}
+
+#measurement_select{
+	width:100%;
+}
+	
+.caption{
+	background:#0C5DA5; 
+	padding: 10px; 
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size: 32px;
+}
+
+.logo{
+	position:relative;
+	margin-right:0px;
+	float:right;
+	height:40px;
+}
+
+.header_utilities{
+	position:relative;
+	margin-right: 20px;
+	float:right;
+	font-size:16px;
+}
+
+a.header_links:link,a.header_links:visited{
+	color:#FFFFFF;
+}
+
+a.header_links:hover{
+	text-decoration:underline;
+}
+
+a:link,a:visited{
+	color:black;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#0C5DA5;
+	text-decoration:underline;
+}
+
+.stm_month_table{
+    background-color: #E0E0E0;
+    margin-bottom: 20px;
+}
+
+.stm_month_table td{
+    padding:2px 5px 2px 5px;
+    width: 120px;
+}
+
+.stm_month_name{
+    background-color: #0C5DA5;
+    color: white;
+}
+
+.stm_image{
+    background-color: #E0E0E0;
+    float:left;
+    border-style:solid;
+    border-width:1px;
+}
+
+
+.table_container{
+        border: 1px solid red;
+	width:100%;/*950px*/
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.frontpage_table{
+    float:left;
+    
+}
